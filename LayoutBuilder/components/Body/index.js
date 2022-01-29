@@ -24,9 +24,7 @@ const Body = () => (
             <div className="content">
               <h1 className="body-header-text">Content</h1>
               <p className="content-text">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam.
+                Hey. this is the content!
               </p>
             </div>
           ) : null}
